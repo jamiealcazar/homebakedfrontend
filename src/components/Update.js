@@ -35,7 +35,6 @@ const UpdateForm = (props) => {
     });
   });
 };
-console.log(props.food._id);
 
 return (
   <div>
